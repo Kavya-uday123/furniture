@@ -61,6 +61,7 @@
                         <p class="card-text">Price: 35,000</p>
                       </div>
                   </div>
+                </div>
                   <br>
                 <div class="card-group">
                     <div class="card">
