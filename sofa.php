@@ -65,8 +65,30 @@
                       </div>
                   </div>
                 </div>
-                </div>
-                </div>
-        </div></div>
+                <div class="card-group">
+                    <div class="card">
+                      <img height="220 px" src="https://rajagiri.edu/uploads/image-gallery/4/lib_1.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Library Valley Campus</h5>
+                        <p class="card-text"></p>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img height="220 px" src="https://rajagiri.edu/uploads/image-gallery/6/sports.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Sports facility</h5>
+                        <p class="card-text"></p>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img height="220 px" src="https://rajagiri.edu/uploads/image-gallery/8/recreated%20facility1.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Recreational Facility</h5>
+                        <p class="card-text"></p>
+                      </div>
+                    </div>
+                  </div>
+                  </div>
+          </div></div>
 </body>
 </html>
