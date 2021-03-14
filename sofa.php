@@ -57,7 +57,7 @@
 
                   </div>
                   <div class="card">
-                      <img height = "220 px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStveTStjHNxvO_aLYJak4kzXDcje4pxHu0lg&usqp=CAU" class="card-img-top" alt="...">
+                      <img height = "220 px" src="https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_A1_803x602.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">
                             Sofa Novalee Linen-Look</h5>
@@ -65,26 +65,28 @@
                       </div>
                   </div>
                 </div>
+                <br>
+                <br>
                 <div class="card-group">
                     <div class="card">
                       <img height="220 px" src="https://rajagiri.edu/uploads/image-gallery/4/lib_1.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
-                        <h5 class="card-title">Library Valley Campus</h5>
-                        <p class="card-text"></p>
+                        <h5 class="card-title">Opulent Advance 3 Seater Sofa</h5>
+                        <p class="card-text">Price: 44,000</p>
                       </div>
                     </div>
                     <div class="card">
-                      <img height="220 px" src="https://rajagiri.edu/uploads/image-gallery/6/sports.jpg" class="card-img-top" alt="...">
+                      <img height="220 px" src="https://1i9wu42vzknf1h4zwf2to5aq-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/x_CL-8000-100_SanFeSofaPub3_na_s_-1.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
-                        <h5 class="card-title">Sports facility</h5>
-                        <p class="card-text"></p>
+                        <h5 class="card-title">Brown Leather Sofa</h5>
+                        <p class="card-text">Price: 50,000</p>
                       </div>
                     </div>
                     <div class="card">
-                      <img height="220 px" src="https://rajagiri.edu/uploads/image-gallery/8/recreated%20facility1.jpg" class="card-img-top" alt="...">
+                      <img height="220 px" src="https://ii1.pepperfry.com/media/catalog/product/d/i/568x284/diamond-sofa-set--3---2-seater--in-black-colour-by-parin-diamond-sofa-set--3---2-seater--in-black-co-dzugkp.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
-                        <h5 class="card-title">Recreational Facility</h5>
-                        <p class="card-text"></p>
+                        <h5 class="card-title">Diamond Sofa set (3+2 Seater) in Black Colour</h5>
+                        <p class="card-text">Price: 55,440</p>
                       </div>
                     </div>
                   </div>
