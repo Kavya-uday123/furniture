@@ -66,7 +66,6 @@
                   </div>
                 </div>
                 <br>
-                <br>
                 <div class="card-group">
                     <div class="card">
                       <img height="220 px" src="https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_A1_803x602.jpg" class="card-img-top" alt="...">

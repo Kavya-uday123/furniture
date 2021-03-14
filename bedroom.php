@@ -65,7 +65,7 @@
                 <br>
                 <div class="card-group">
                     <div class="card">
-                      <img height="220 px" src="https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_A1_803x602.jpg" class="card-img-top" alt="...">
+                      <img height="220 px" src="https://hnsfpau.imgix.net/5/images/detailed/91/Allegra-Queen-Bed-Frame-FrontOn.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Allegra Queen Bed Frame</h5>
                         <p class="card-text">Price: 75,000</p>
