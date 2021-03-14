@@ -57,7 +57,7 @@
 
                   </div>
                   <div class="card">
-                      <img height = "220 px" src="https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_A1_803x602.jpg" class="card-img-top" alt="...">
+                      <img height = "220 px" src="http://cdn.shopify.com/s/files/1/2660/5202/products/shopify-image_a6fa3eb1-c388-4ce9-a914-c9ea3e4384cf_800x.jpg?v=1614976781" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">
                             Sofa Novalee Linen-Look</h5>
@@ -69,7 +69,7 @@
                 <br>
                 <div class="card-group">
                     <div class="card">
-                      <img height="220 px" src="https://rajagiri.edu/uploads/image-gallery/4/lib_1.jpg" class="card-img-top" alt="...">
+                      <img height="220 px" src="https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_A1_803x602.jpg" class="card-img-top" alt="...">
                       <div class="card-body">
                         <h5 class="card-title">Opulent Advance 3 Seater Sofa</h5>
                         <p class="card-text">Price: 44,000</p>
@@ -92,5 +92,6 @@
                   </div>
                   </div>
           </div></div>
+          <br>
 </body>
 </html>

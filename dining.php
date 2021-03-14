@@ -61,9 +61,34 @@
                         <p class="card-text">Price: 35,000</p>
                       </div>
                   </div>
+                  <br>
+                <div class="card-group">
+                    <div class="card">
+                      <img height="220 px" src="https://images2.imgix.net/p4dbimg/1050/images/8693.jpg?trim=color&trimcolor=FFFFFF&trimtol=5&w=1024&h=768&fm=pjpg&auto=format" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Silver Dining Room Finley White Marble Top Dining Table</h5>
+                        <p class="card-text">Price: 40,000</p>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img height="220 px" src="https://outdoorinteriors.com/wp-content/gallery/20663/20663-Eucalyptus-Round-63-in.-Dia.-Dining-Table-with-Lazy-Susan-with-8-21090GR-Chairs.JPG" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">The Outdoor Interiors 63″ Round Eucalyptus Dining Table</h5>
+                        <p class="card-text">Price: 38,000</p>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img height="220 px" src="https://www.royaloakindia.com/uploads/Lifestyle800X50081.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Royaloak Paris Glass 6 Seater Dining Table Set</h5>
+                        <p class="card-text">Price: 49,440</p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
                 </div>
-                </div>
-        </div></div>
+        </div>
+        <br>
+                
 </body>
 </html>

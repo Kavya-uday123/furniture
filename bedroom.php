@@ -62,8 +62,33 @@
                       </div>
                   </div>
                 </div>
+                <br>
+                <div class="card-group">
+                    <div class="card">
+                      <img height="220 px" src="https://www.godrejinterio.com/imagestore/B2C/56101502SD00944/56101502SD00944_A1_803x602.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Allegra Queen Bed Frame</h5>
+                        <p class="card-text">Price: 75,000</p>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img height="220 px" src="https://images.woodenstreet.de/image/data%2Fbed-with-storage%2Fwalken-bed-with-storage%2Fupdated%2Fhoney%2Ffront-new.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Walken Bed with Storage</h5>
+                        <p class="card-text">Price: 44,000</p>
+                      </div>
+                    </div>
+                    <div class="card">
+                      <img height="220 px" src="https://images.woodenstreet.de/image/cache/data%2Fbed-with-storage%2Fferguson-hydraulic-bed-revised%2Fwalnut%2Ffront-574x396.jpg" class="card-img-top" alt="...">
+                      <div class="card-body">
+                        <h5 class="card-title">Hydraulic Wooden Storage Bed</h5>
+                        <p class="card-text">Price: 50,440</p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
                 </div>
-        </div></div>
+        </div>
+        <br>
 </body>
 </html>
