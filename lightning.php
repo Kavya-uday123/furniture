@@ -11,7 +11,7 @@
 <div class="container">
     <div class="row">
         <div class="header">
-            <img height="90 px" src="https://images-na.ssl-images-amazon.com/images/I/31rotDs0geL.jpg" >
+            <img height="90 px" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Hometown-logo_-_Copy.jpg" >
         </div>
     </div>
 </div>
