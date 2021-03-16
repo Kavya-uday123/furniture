@@ -8,6 +8,14 @@
     <title>Furniture</title>
 </head>
 <body>
+<div class="container">
+    <div class="row">
+        <div class="header">
+            <img height="90 px" src="https://images-na.ssl-images-amazon.com/images/I/31rotDs0geL.jpg" >
+        </div>
+    </div>
+</div>
+<br>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.php">Home</a>
