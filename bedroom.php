@@ -44,7 +44,7 @@
           <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
               <br>
               <br>
-              <div class="card-group text-white bg-dark mb-3">
+              <div class="card text-white bg-dark mb-3">
                   <div class="card">
                     <img height = "220 px" src="https://cdn.shopify.com/s/files/1/0191/2234/products/DSC_2923_2048x.jpg?v=1569117527" class="card-img-top" alt="...">
                     <div class="card-body">
