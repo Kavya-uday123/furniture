@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<div class="container" style="background-color:lightyellow;">
+<div class="container">
     <div class="row">
         <div class="header">
             <img height="90 px" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Hometown-logo_-_Copy.jpg" >
