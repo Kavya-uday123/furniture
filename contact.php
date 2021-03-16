@@ -43,7 +43,7 @@
         </div>
       </nav>
           <br>
-          <div class="row" style="background-color:lightyellow;">
+          <div class="row" style="background-color:lightgray;">
     <p>
 <p>&nbsp&nbsp&nbspAddress: HillView Road, Kochi 31/13<br>
     &nbsp&nbsp&nbspE-Mail: info@hometown.ge<br></p>
