@@ -5,17 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>HomeTown</title>
 </head>
-<body style="background-color:cadetblue;">
-<div class="container">
-    <div class="row">
-        <div class="header">
-            <img height="90 px" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Hometown-logo_-_Copy.jpg" >
-        </div>
-    </div>
-</div>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.php">Home</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
