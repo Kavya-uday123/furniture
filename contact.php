@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HomeTown</title>
+    <title>Wendy's</title>
 </head>
 <body>
 <div class="container">
@@ -42,38 +42,45 @@
           </div>
         </div>
       </nav>
-      <div class="container">
-        <div class="row">
-          <div class="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-              <br>
-              <br>
-              <div class="card-group">
-                  <div class="card">
-                    <img height = "220 px" src="https://images.takeluckhome.com/images/400x400/201906/U/metal-melon-cage-pendant-lamp-living-room-3-lights-industrial-hanging-light-in-black-white_1559455491730.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">Metal Melon Cage Pendant Lamp</h5>
-                      <p class="card-text">Price: 670</p>
-                    </div>
-                    
-                  </div>
-                  <div class="card">
-                    <img height = "220 px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4WvzaApUpkTe37ukMzcNNdtlxHmYb_MUMdd2Jfw7CFag0ea346kikP3gu-w&usqp=CAc" class="card-img-top" alt="...">
-                    <div class="card-body">
-                      <h5 class="card-title">6 watt Moon Light Lamp Globe</h5>
-                      <p class="card-text"> Price: 649</p>
-                    </div>
-
-                  </div>
-                  <div class="card">
-                      <img height = "220 px" src="https://www.nobroker.in/blog/wp-content/uploads/2020/05/Hanging-Lights-to-Illuminate-Your-Living-Room13.jpg" class="card-img-top" alt="...">
-                      <div class="card-body">
-                        <h5 class="card-title">Crystal Hanging Lights</h5>
-                        <p class="card-text">Price: 2000</p>
-                      </div>
-                  </div>
-                </div>
-                </div>
-                </div>
-        </div></div>
+          <br>
+          <div class="row" style="background-color:lightyellow;">
+    <p>
+<p>&nbsp&nbsp&nbspAddress: HillView Road, Kochi 31/13<br>
+    &nbsp&nbsp&nbspE-Mail: info@hometown.ge<br></p>
+<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspHours of Operation:<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspMonday-Friday |  09:00 - 24:00<br>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbspWeekends |  09:00 - 01:00<br>
+    </p>
+ </div>
+ <div class="row" style="background-color:lightyellow;">
+        <h4><center>Write To Us</center></h4>
+        <table class="table" align="center">
+            <tr>
+                <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspName</td>
+                <td><input type="text" class="form-control"></td>
+            </tr>
+            <tr>
+                <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspEmail</td>
+                <td><input type="text" class="form-control"></td>
+            </tr>
+            <tr>
+                <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspMobile No</td>
+                <td><input type="number" class="form-control"></td>
+            </tr>
+            <tr>
+                <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSubject</td>
+                <td><input type="text" class="form-control"></td>
+            </tr>
+            <tr>
+                <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspDescription</td>
+                <td><input type="text" class="form-control"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><button class="btn btn-dark">SUBMIT</button></td>
+            </tr>
+        </table>
+     </div>
 </body>
 </html>
